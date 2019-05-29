@@ -10,7 +10,8 @@
           android:layout_width="wrap_content"
           android:layout_height="wrap_content"
           android:id="@+id/greeting"
-          android:text="Hello, World!" />
+          android:text="Hello, World!"
+          android:textColor="@android:color/holo_purple"/>
 
       <EditText
           android:layout_width="match_parent"
